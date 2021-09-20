@@ -4,6 +4,8 @@
 
     display: flex;
     justify-content: flex-end;
+
+    background-color: rgb(201, 228, 228);
 }
 .footer > span{
     font: 1.1rem;
